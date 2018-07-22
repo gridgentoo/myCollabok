@@ -3,7 +3,7 @@
 Целые рощи высотой более 100 метров. 
 https://www.youtube.com/watch?v=OxPlKVK8RLM
 
-# Архитектура Geode движка обработки финансовых транзакций в торговых платформах различных компаний на Уолл-стрит.
+# Архитектура [Geode] движка обработки финансовых транзакций в торговых платформах различных компаний на Уолл-стрит.
 Geode был создан компанией Gemstone Systems в 2002 году и применяется в качестве высокопроизводительного движка обработки финансовых транзакций в торговых платформах различных компаний на Уолл-стрит.
 В качестве примера внедрения Geode это Национальная железная дорога Китая, в которой кластер из 20 узлов (10 основных и 10 запасных) обеспечивает хранение 2 Тб оперативной информации о билетах. 
 https://drive.google.com/drive/folders/1tetUejh8WzscoCbCHPsdILM6desm5GzX
@@ -20,6 +20,13 @@ Activity streams and gadgets make up its core functionality. Content within Eure
 Eureka Streams uses a shared nothing architecture. It uses Memcached, Apache Maven, PostgreSQL and Hibernate. It uses Shindig for OpenSocial.
 It makes use of Java Message Service (JMS), Java Persistence API (JPA), Lucene and Google Web Toolkit (GWT). It makes use of the Apache JServ Protocol (AJP), OAuth and Representational State Transfer (REST).
 https://drive.google.com/drive/folders/1BNemZntyH1CK6bmUAUI2G_-Q4VuVCSsV
+
+# Архитектура [Apache Hive] был создан корпорацией Facebook 
+Работа с данными в hadoop используя SQL-подобный язык запросов, Apache Hive поддерживает язык запросов Hive Query Language, который основан на языке SQL, но не имеет полной поддержки стандарта SQL-92.
+Apache Hive — система управления базами данных на основе платформы Hadoop. Позволяет выполнять запросы, агрегировать и анализировать данные, хранящиеся в Hadoop.
+https://drive.google.com/drive/folders/1c7kxASfGaeTu-7Eal-H5mnFjsjsEOt03
+
+
 
 # Архитектура [CRM myCollab for Enterprise Architect] Исходный код и UML-диаграмма классов
 https://drive.google.com/drive/folders/1xWisAJ00EP2xTpzRGCzZfXwPHtaupuep
