@@ -1,7 +1,8 @@
 # Архитектура [CRM myCollab for Enterprise Architect] Исходный код и UML-диаграмма классов
 https://drive.google.com/drive/folders/1xWisAJ00EP2xTpzRGCzZfXwPHtaupuep
 
-# Архитектура [Ereka Streams] is Enterprise social networking platform, developed by Lockheed Martin. Activity streams and gadgets make up its core functionality. Content within Eureka Streams consists primarily of microblogs and internal and external web feeds. Users typically provide links to other content, such as wikis, blogs, and shared documents housed in a content management system.
+# Архитектура [Ereka Streams] is Enterprise social networking platform, developed by Lockheed Martin. 
+Activity streams and gadgets make up its core functionality. Content within Eureka Streams consists primarily of microblogs and internal and external web feeds. Users typically provide links to other content, such as wikis, blogs, and shared documents housed in a content management system.
 # Technical architecture
 Eureka Streams uses a shared nothing architecture. It uses Memcached, Apache Maven, PostgreSQL and Hibernate. It uses Shindig for OpenSocial.
 It makes use of Java Message Service (JMS), Java Persistence API (JPA), Lucene and Google Web Toolkit (GWT). It makes use of the Apache JServ Protocol (AJP), OAuth and Representational State Transfer (REST).
