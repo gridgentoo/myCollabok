@@ -52,6 +52,12 @@ https://www.youtube.com/watch?v=FUQVgS5qfx8
 #  Team BlackSheep : :  на Бирже в Сан-Пауло
 https://www.youtube.com/watch?v=p1oHkacKT0A
 
+#  Team BlackSheep : : на Бирж Гонконга(Hong Kong)
+https://www.youtube.com/watch?v=NDncukMkNso
+
+#   Team BlackSheep : : на Бирже  в Нью-Йорке (New York) 
+https://www.youtube.com/watch?v=N1hj0hoKY3s
+
 
 # Free, open source CRM, Document and Project Management software
 [![License](http://img.shields.io/badge/License-GPLv3-orange.svg)](http://www.gnu.org/copyleft/gpl.html) [![Project Stats](https://www.openhub.net/p/mycollab/widgets/project_thin_badge.gif)](https://www.openhub.net/p/mycollab) [![Build](https://travis-ci.org/MyCollab/mycollab.svg)](https://travis-ci.org/MyCollab/mycollab)
