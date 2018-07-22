@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=pCHQZwvgxNM
 Целые рощи высотой более 100 метров. 
 https://www.youtube.com/watch?v=OxPlKVK8RLM
 
+![Image alt](https://i0.wp.com/www.wilowallstreet.com/wp-content/uploads/2015/11/100914_wall_street_605.jpg)
 # Архитектура [Geode] Реверс инжениринг движка обработки финансовых транзакций в торговых платформах различных компаний на Уолл-стрит.
 Geode был создан компанией Gemstone Systems в 2002 году и применяется в качестве высокопроизводительного движка обработки финансовых транзакций в торговых платформах различных компаний на Уолл-стрит.
 ![Image alt](http://chinalogist.ru/sites/default/files/speed-railwas-of-china4.png)
