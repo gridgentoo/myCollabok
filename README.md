@@ -43,6 +43,16 @@ https://drive.google.com/drive/folders/1xWisAJ00EP2xTpzRGCzZfXwPHtaupuep
 # Архитектура [Bitrix] B2B c  личным кабинетом. Реверс инжениринг
 https://drive.google.com/drive/folders/17Kz9x40bBdN4bt6-aIKT0lVx1ZD-P6R0
 
+#  Team BlackSheep : : на Дубайской Бирже
+https://www.youtube.com/watch?v=fYfhFpCG0ok&t=18s
+
+#  Team BlackSheep : : на Бирже в Сингапура(Singapore)
+https://www.youtube.com/watch?v=FUQVgS5qfx8
+
+#  Team BlackSheep : :  на Бирже в Сан-Пауло
+https://www.youtube.com/watch?v=p1oHkacKT0A
+
+
 # Free, open source CRM, Document and Project Management software
 [![License](http://img.shields.io/badge/License-GPLv3-orange.svg)](http://www.gnu.org/copyleft/gpl.html) [![Project Stats](https://www.openhub.net/p/mycollab/widgets/project_thin_badge.gif)](https://www.openhub.net/p/mycollab) [![Build](https://travis-ci.org/MyCollab/mycollab.svg)](https://travis-ci.org/MyCollab/mycollab)
 [![Version](https://img.shields.io/badge/Version-5.4.10-brightgreen.svg)](https://community.mycollab.com/)
