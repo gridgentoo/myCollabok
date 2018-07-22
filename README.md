@@ -1,14 +1,17 @@
+# Реверс инжениринг в Enterprise Architect (EA) в "Лаборатории Касперского"
+https://www.youtube.com/watch?v=pCHQZwvgxNM
+
 # [Секво́йя живет 5000 лет, Человек и Секвойя спроектированы из одного и тоже ДНК]
 как использовать в исследования генома Секвойя в Герентологии!] 
 Целые рощи высотой более 100 метров. 
 https://www.youtube.com/watch?v=OxPlKVK8RLM
 
-# Архитектура [Geode] движка обработки финансовых транзакций в торговых платформах различных компаний на Уолл-стрит.
+# Архитектура [Geode] Реверс инжениринг движка обработки финансовых транзакций в торговых платформах различных компаний на Уолл-стрит.
 Geode был создан компанией Gemstone Systems в 2002 году и применяется в качестве высокопроизводительного движка обработки финансовых транзакций в торговых платформах различных компаний на Уолл-стрит.
 В качестве примера внедрения Geode это Национальная железная дорога Китая, в которой кластер из 20 узлов (10 основных и 10 запасных) обеспечивает хранение 2 Тб оперативной информации о билетах. 
 https://drive.google.com/drive/folders/1tetUejh8WzscoCbCHPsdILM6desm5GzX
 
-# Архитектура [Ereka Streams] is Enterprise social networking platform, developed by Lockheed Martin. 
+# Архитектура [Ereka Streams] Реверс инжениринг - Enterprise social networking platform, developed by Lockheed Martin. 
 
 По данным 2011 и 2013 года, корпорация Lockheed Martin — крупнейшее в мире предприятие ВПК[3]. 
 95 % доходов компания получает от заказов Министерства обороны США, других агентств и департаментов правительства США, а также от зарубежных заказчиков.
@@ -21,23 +24,23 @@ Eureka Streams uses a shared nothing architecture. It uses Memcached, Apache Mav
 It makes use of Java Message Service (JMS), Java Persistence API (JPA), Lucene and Google Web Toolkit (GWT). It makes use of the Apache JServ Protocol (AJP), OAuth and Representational State Transfer (REST).
 https://drive.google.com/drive/folders/1BNemZntyH1CK6bmUAUI2G_-Q4VuVCSsV
 
-# Архитектура [Hadoop3] : : Hadoop был создан корпорацией в Yahoo
+# Архитектура [Hadoop3] Реверс инжениринг : : Hadoop был создан корпорацией в Yahoo
 Apache Hadoop 3.0, свободной платформы для организации распределённой обработки больших объёмов данных с использованием парадигмы map/reduce, при которой задача делится на множество более мелких обособленных фрагментов, каждый из которых может быть запущен на отдельном узле кластера. Хранилище на базе Hadoop может охватывать тысячи узлов и содержать эксабайты данных.
 
 В состав Hadoop входит реализация распределенной файловой системы Hadoop Distributed Filesystem (HDFS), автоматически обеспечивающей резервирование данных и оптимизированной для работы MapReduce-приложений. Для упрощения доступа к данным в Hadoop хранилище разработана БД HBase и SQL-подобный язык Pig, который является своего рода SQL для MapReduce, запросы которого могут быть распараллелены и обработаны несколькими Hadoop-платформами. Проект оценивается как полностью стабильный и готовый для промышленной эксплуатции. Hadoop активно используется в крупных промышленных проектах, предоставляя возможности, аналогичные платформе Google Bigtable/GFS/MapReduce, при этом компания Google официально делегировала Hadoop и другим проектам Apache право использования технологий, на которые распространяются патенты, связанные с методом MapReduce.
 https://drive.google.com/drive/folders/1VtuAmfDgOlpt_BKNlpGn8EH1j08MXE9S
 
-# Архитектура [Hive] : : Hive был создан корпорацией Facebook 
+# Архитектура [Hive] Реверс инжениринг : : Hive был создан корпорацией Facebook 
 Работа с данными в hadoop используя SQL-подобный язык запросов, Apache Hive поддерживает язык запросов Hive Query Language, который основан на языке SQL, но не имеет полной поддержки стандарта SQL-92.
 Apache Hive — система управления базами данных на основе платформы Hadoop. Позволяет выполнять запросы, агрегировать и анализировать данные, хранящиеся в Hadoop.
 https://drive.google.com/drive/folders/1c7kxASfGaeTu-7Eal-H5mnFjsjsEOt03
 
 
 
-# Архитектура [CRM myCollab for Enterprise Architect] Исходный код и UML-диаграмма классов
+# Архитектура [CRM myCollab for Enterprise Architect] Реверс инжениринг. Исходный код и UML-диаграмма классов
 https://drive.google.com/drive/folders/1xWisAJ00EP2xTpzRGCzZfXwPHtaupuep
 
-# Архитектура [Bitrix] B2B c  личным кабинетом
+# Архитектура [Bitrix] B2B c  личным кабинетом. Реверс инжениринг
 https://drive.google.com/drive/folders/17Kz9x40bBdN4bt6-aIKT0lVx1ZD-P6R0
 
 # Free, open source CRM, Document and Project Management software
