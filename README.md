@@ -9,9 +9,9 @@ https://www.youtube.com/watch?v=OxPlKVK8RLM
 ![Image alt](https://i0.wp.com/www.wilowallstreet.com/wp-content/uploads/2015/11/100914_wall_street_605.jpg)
 # Архитектура [Geode] Реверс инжениринг движка обработки финансовых транзакций в торговых платформах различных компаний на Уолл-стрит.
 Geode был создан компанией Gemstone Systems в 2002 году и применяется в качестве высокопроизводительного движка обработки финансовых транзакций в торговых платформах различных компаний на Уолл-стрит.
-![Image alt](http://chinalogist.ru/sites/default/files/speed-railwas-of-china4.png)
 
 В качестве примера внедрения Geode это Национальная железная дорога Китая, в которой кластер из 20 узлов (10 основных и 10 запасных) обеспечивает хранение 2 Тб оперативной информации о билетах. 
+![Image alt](http://chinalogist.ru/sites/default/files/speed-railwas-of-china4.png)
 
 Архитектура [Geode] & Реверс инжениринг движка обработки финансовых транзакций
 https://drive.google.com/drive/folders/1tetUejh8WzscoCbCHPsdILM6desm5GzX
@@ -21,7 +21,6 @@ https://drive.google.com/drive/folders/1tetUejh8WzscoCbCHPsdILM6desm5GzX
 По данным 2011 и 2013 года, корпорация Lockheed Martin — крупнейшее в мире предприятие ВПК[3]. 
 95 % доходов компания получает от заказов Министерства обороны США, других агентств и департаментов правительства США, а также от зарубежных заказчиков.
 https://ru.wikipedia.org/wiki/Lockheed_Martin
-![Image alt](https://media1.fdncms.com/arktimes/imager/one-step-ahead-and-what-about-arkansas/u/mobilestory/3854548/lockheed.jpg)
 
 Activity streams and gadgets make up its core functionality. Content within Eureka Streams consists primarily of microblogs and internal and external web feeds. Users typically provide links to other content, such as wikis, blogs, and shared documents housed in a content management system.
 
@@ -29,24 +28,28 @@ Activity streams and gadgets make up its core functionality. Content within Eure
 Eureka Streams uses a shared nothing architecture. It uses Memcached, Apache Maven, PostgreSQL and Hibernate. It uses Shindig for OpenSocial.
 It makes use of Java Message Service (JMS), Java Persistence API (JPA), Lucene and Google Web Toolkit (GWT). It makes use of the Apache JServ Protocol (AJP), OAuth and Representational State Transfer (REST).
 
+![Image alt](https://media1.fdncms.com/arktimes/imager/one-step-ahead-and-what-about-arkansas/u/mobilestory/3854548/lockheed.jpg)
+
 Архитектура [Ereka Streams] & Реверс инжениринг - Enterprise social networking platform. 
 
 https://drive.google.com/drive/folders/1BNemZntyH1CK6bmUAUI2G_-Q4VuVCSsV
 
-![Image alt](https://netmag.pk/wp-content/uploads/2017/09/article-1378778-0BB6E70B00000578-588_634x392.jpg)
 # Архитектура [Hadoop3] Реверс инжениринг : : Hadoop был создан корпорацией в Yahoo
 Apache Hadoop 3.0, свободной платформы для организации распределённой обработки больших объёмов данных с использованием парадигмы map/reduce, при которой задача делится на множество более мелких обособленных фрагментов, каждый из которых может быть запущен на отдельном узле кластера. Хранилище на базе Hadoop может охватывать тысячи узлов и содержать эксабайты данных.
 
 В состав Hadoop входит реализация распределенной файловой системы Hadoop Distributed Filesystem (HDFS), автоматически обеспечивающей резервирование данных и оптимизированной для работы MapReduce-приложений. Для упрощения доступа к данным в Hadoop хранилище разработана БД HBase и SQL-подобный язык Pig, который является своего рода SQL для MapReduce, запросы которого могут быть распараллелены и обработаны несколькими Hadoop-платформами. Проект оценивается как полностью стабильный и готовый для промышленной эксплуатции. Hadoop активно используется в крупных промышленных проектах, предоставляя возможности, аналогичные платформе Google Bigtable/GFS/MapReduce, при этом компания Google официально делегировала Hadoop и другим проектам Apache право использования технологий, на которые распространяются патенты, связанные с методом MapReduce.
 
+![Image alt](https://netmag.pk/wp-content/uploads/2017/09/article-1378778-0BB6E70B00000578-588_634x392.jpg)
+
 Архитектура [Hadoop3] & Реверс инжениринг : : Hadoop 
 
 https://drive.google.com/drive/folders/1VtuAmfDgOlpt_BKNlpGn8EH1j08MXE9S
 
-![Image alt](http://www.fbhive.com/wp-content/uploads/2017/08/cropped-hive-logo.png)
 # Архитектура [Hive] Реверс инжениринг : : Hive был создан корпорацией Facebook 
 Работа с данными в hadoop используя SQL-подобный язык запросов, Apache Hive поддерживает язык запросов Hive Query Language, который основан на языке SQL, но не имеет полной поддержки стандарта SQL-92.
 Apache Hive — система управления базами данных на основе платформы Hadoop. Позволяет выполнять запросы, агрегировать и анализировать данные, хранящиеся в Hadoop.
+
+![Image alt](http://www.fbhive.com/wp-content/uploads/2017/08/cropped-hive-logo.png)
 
 Архитектура [Hive] & Реверс инжениринг : : Hive
 
