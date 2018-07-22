@@ -28,6 +28,7 @@ Eureka Streams uses a shared nothing architecture. It uses Memcached, Apache Mav
 It makes use of Java Message Service (JMS), Java Persistence API (JPA), Lucene and Google Web Toolkit (GWT). It makes use of the Apache JServ Protocol (AJP), OAuth and Representational State Transfer (REST).
 https://drive.google.com/drive/folders/1BNemZntyH1CK6bmUAUI2G_-Q4VuVCSsV
 
+![Image alt(https://netmag.pk/wp-content/uploads/2017/09/article-1378778-0BB6E70B00000578-588_634x392.jpg)
 # Архитектура [Hadoop3] Реверс инжениринг : : Hadoop был создан корпорацией в Yahoo
 Apache Hadoop 3.0, свободной платформы для организации распределённой обработки больших объёмов данных с использованием парадигмы map/reduce, при которой задача делится на множество более мелких обособленных фрагментов, каждый из которых может быть запущен на отдельном узле кластера. Хранилище на базе Hadoop может охватывать тысячи узлов и содержать эксабайты данных.
 
