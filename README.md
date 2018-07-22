@@ -14,12 +14,12 @@ Geode был создан компанией Gemstone Systems в 2002 году �
 В качестве примера внедрения Geode это Национальная железная дорога Китая, в которой кластер из 20 узлов (10 основных и 10 запасных) обеспечивает хранение 2 Тб оперативной информации о билетах. 
 https://drive.google.com/drive/folders/1tetUejh8WzscoCbCHPsdILM6desm5GzX
 
-![Image alt](https://media1.fdncms.com/arktimes/imager/one-step-ahead-and-what-about-arkansas/u/mobilestory/3854548/lockheed.jpg)
 # Архитектура [Ereka Streams] Реверс инжениринг - Enterprise social networking platform, developed by Lockheed Martin. 
 
 По данным 2011 и 2013 года, корпорация Lockheed Martin — крупнейшее в мире предприятие ВПК[3]. 
 95 % доходов компания получает от заказов Министерства обороны США, других агентств и департаментов правительства США, а также от зарубежных заказчиков.
 https://ru.wikipedia.org/wiki/Lockheed_Martin
+![Image alt](https://media1.fdncms.com/arktimes/imager/one-step-ahead-and-what-about-arkansas/u/mobilestory/3854548/lockheed.jpg)
 
 Activity streams and gadgets make up its core functionality. Content within Eureka Streams consists primarily of microblogs and internal and external web feeds. Users typically provide links to other content, such as wikis, blogs, and shared documents housed in a content management system.
 
