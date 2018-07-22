@@ -26,6 +26,8 @@ Activity streams and gadgets make up its core functionality. Content within Eure
 [Technical architecture]
 Eureka Streams uses a shared nothing architecture. It uses Memcached, Apache Maven, PostgreSQL and Hibernate. It uses Shindig for OpenSocial.
 It makes use of Java Message Service (JMS), Java Persistence API (JPA), Lucene and Google Web Toolkit (GWT). It makes use of the Apache JServ Protocol (AJP), OAuth and Representational State Transfer (REST).
+
+Архитектура [Ereka Streams] Реверс инжениринг - Enterprise social networking platform. 
 https://drive.google.com/drive/folders/1BNemZntyH1CK6bmUAUI2G_-Q4VuVCSsV
 
 ![Image alt](https://netmag.pk/wp-content/uploads/2017/09/article-1378778-0BB6E70B00000578-588_634x392.jpg)
@@ -33,6 +35,8 @@ https://drive.google.com/drive/folders/1BNemZntyH1CK6bmUAUI2G_-Q4VuVCSsV
 Apache Hadoop 3.0, свободной платформы для организации распределённой обработки больших объёмов данных с использованием парадигмы map/reduce, при которой задача делится на множество более мелких обособленных фрагментов, каждый из которых может быть запущен на отдельном узле кластера. Хранилище на базе Hadoop может охватывать тысячи узлов и содержать эксабайты данных.
 
 В состав Hadoop входит реализация распределенной файловой системы Hadoop Distributed Filesystem (HDFS), автоматически обеспечивающей резервирование данных и оптимизированной для работы MapReduce-приложений. Для упрощения доступа к данным в Hadoop хранилище разработана БД HBase и SQL-подобный язык Pig, который является своего рода SQL для MapReduce, запросы которого могут быть распараллелены и обработаны несколькими Hadoop-платформами. Проект оценивается как полностью стабильный и готовый для промышленной эксплуатции. Hadoop активно используется в крупных промышленных проектах, предоставляя возможности, аналогичные платформе Google Bigtable/GFS/MapReduce, при этом компания Google официально делегировала Hadoop и другим проектам Apache право использования технологий, на которые распространяются патенты, связанные с методом MapReduce.
+
+Архитектура [Hadoop3] Реверс инжениринг : : Hadoop 
 https://drive.google.com/drive/folders/1VtuAmfDgOlpt_BKNlpGn8EH1j08MXE9S
 
 ![Image alt](http://www.fbhive.com/wp-content/uploads/2017/08/cropped-hive-logo.png)
@@ -40,6 +44,7 @@ https://drive.google.com/drive/folders/1VtuAmfDgOlpt_BKNlpGn8EH1j08MXE9S
 Работа с данными в hadoop используя SQL-подобный язык запросов, Apache Hive поддерживает язык запросов Hive Query Language, который основан на языке SQL, но не имеет полной поддержки стандарта SQL-92.
 Apache Hive — система управления базами данных на основе платформы Hadoop. Позволяет выполнять запросы, агрегировать и анализировать данные, хранящиеся в Hadoop.
 
+Архитектура [Hive] Реверс инжениринг : : Hive
 https://drive.google.com/drive/folders/1c7kxASfGaeTu-7Eal-H5mnFjsjsEOt03
 
 
