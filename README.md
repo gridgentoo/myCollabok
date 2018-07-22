@@ -4,6 +4,11 @@ Geode был создан компанией Gemstone Systems в 2002 году �
 https://drive.google.com/drive/folders/1tetUejh8WzscoCbCHPsdILM6desm5GzX
 
 # Архитектура [Ereka Streams] is Enterprise social networking platform, developed by Lockheed Martin. 
+
+По данным 2011 и 2013 года, корпорация Lockheed Martin — крупнейшее в мире предприятие ВПК[3]. 
+95 % доходов компания получает от заказов Министерства обороны США, других агентств и департаментов правительства США, а также от зарубежных заказчиков.
+https://ru.wikipedia.org/wiki/Lockheed_Martin
+
 Activity streams and gadgets make up its core functionality. Content within Eureka Streams consists primarily of microblogs and internal and external web feeds. Users typically provide links to other content, such as wikis, blogs, and shared documents housed in a content management system.
 
 [Technical architecture]
