@@ -39,6 +39,7 @@ https://drive.google.com/drive/folders/1VtuAmfDgOlpt_BKNlpGn8EH1j08MXE9S
 # Архитектура [Hive] Реверс инжениринг : : Hive был создан корпорацией Facebook 
 Работа с данными в hadoop используя SQL-подобный язык запросов, Apache Hive поддерживает язык запросов Hive Query Language, который основан на языке SQL, но не имеет полной поддержки стандарта SQL-92.
 Apache Hive — система управления базами данных на основе платформы Hadoop. Позволяет выполнять запросы, агрегировать и анализировать данные, хранящиеся в Hadoop.
+
 https://drive.google.com/drive/folders/1c7kxASfGaeTu-7Eal-H5mnFjsjsEOt03
 
 
