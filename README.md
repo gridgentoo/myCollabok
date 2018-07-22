@@ -1,3 +1,6 @@
+# Архитектура [CRM myCollab for Enterprise Architect] Исходный код и UML-диаграмма классов
+https://drive.google.com/drive/folders/1xWisAJ00EP2xTpzRGCzZfXwPHtaupuep
+
 # Free, open source CRM, Document and Project Management software
 [![License](http://img.shields.io/badge/License-GPLv3-orange.svg)](http://www.gnu.org/copyleft/gpl.html) [![Project Stats](https://www.openhub.net/p/mycollab/widgets/project_thin_badge.gif)](https://www.openhub.net/p/mycollab) [![Build](https://travis-ci.org/MyCollab/mycollab.svg)](https://travis-ci.org/MyCollab/mycollab)
 [![Version](https://img.shields.io/badge/Version-5.4.10-brightgreen.svg)](https://community.mycollab.com/)
