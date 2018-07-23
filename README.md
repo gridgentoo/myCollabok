@@ -78,7 +78,7 @@ https://www.youtube.com/watch?v=NDncukMkNso
 #  Team BlackSheep : : на Бирже  в Нью-Йорке (New York) 
 https://www.youtube.com/watch?v=N1hj0hoKY3s
 
-#  Team BlackSheep : : на Бирже Австрали
+#  Team BlackSheep : : на Бирже Австралии
 https://www.youtube.com/watch?v=ANjiaZmjOj8
 
 # Team BlackSheep : : на Лондонской Бирже
