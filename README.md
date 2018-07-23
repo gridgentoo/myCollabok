@@ -72,7 +72,7 @@ https://www.youtube.com/watch?v=FUQVgS5qfx8
 #  Team BlackSheep : :  на Бирже в Сан-Пауло
 https://www.youtube.com/watch?v=p1oHkacKT0A
 
-#  Team BlackSheep : : на Бирж Гонконга(Hong Kong)
+#  Team BlackSheep : : на Бирже Гонконга(Hong Kong)
 https://www.youtube.com/watch?v=NDncukMkNso
 
 #  Team BlackSheep : : на Бирже  в Нью-Йорке (New York) 
